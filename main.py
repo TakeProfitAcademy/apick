@@ -14,7 +14,7 @@ import logging
 
 
 
-TOKEN = '5422086034:AAFINdqI4TZyR19sMcdxwNMNeU7v4qbrlNg'
+TOKEN = '5422086034:AAEqNoYVKVthN47VWV1RwexONuWn4b7FX8Y'
 
 # ? Настройка логирования в stdout
 logging.basicConfig(
